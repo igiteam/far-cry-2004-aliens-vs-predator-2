@@ -11,7 +11,7 @@ A total conversion mod for Far Cry 2004 that remakes Aliens vs Predator 2.
 ## Base gameplay
 [![farcryigi1](https://img.youtube.com/vi/Hqrr6yR5CwY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SHFycjZ5UjVDd1k)
 
-[![Aliens VS. Predator 2 - Marine Campaign](https://img.youtube.com/vi/iu_J7HGPWkU/hqresdefault.jpg)](https://ytembed.macosxjs.com/?aXVfSjdIR1BXa1U)
+[![Aliens VS. Predator 2 - Marine Campaign](https://img.youtube.com/vi/iu_J7HGPWkU/hqdefault.jpg)](https://ytembed.macosxjs.com/?aXVfSjdIR1BXa1U)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
