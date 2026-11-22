@@ -1,16 +1,17 @@
-# far-cry-2004
-## Far Cry 2004
-Crytec cryengine far cry 2004 far-cry-1.34-complete
+# far-cry-2004-aliens-vs-predator-2-aliens-vs-predator-2
+## Far Cry 2004 - Aliens vs Predator 2
+A total conversion mod for Far Cry 2004 that remakes Aliens vs Predator 2.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/far-cry-2004](https://treegit.macosxjs.com/?url=igiteam/far-cry-2004)
+[https://treegit.macosxjs.com/?url=igiteam/far-cry-2004-aliens-vs-predator-2](https://treegit.macosxjs.com/?url=igiteam/far-cry-2004-aliens-vs-predator-2)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/far-cry-2004/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/far-cry-2004/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/far-cry-2004-aliens-vs-predator-2/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/far-cry-2004-aliens-vs-predator-2/git/trees/main?recursive=1)
 
 ## Base gameplay
 [![farcryigi1](https://img.youtube.com/vi/Hqrr6yR5CwY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SHFycjZ5UjVDd1k)
 
+[![Aliens VS. Predator 2 - Marine Campaign](https://img.youtube.com/vi/iu_J7HGPWkU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aXVfSjdIR1BXa1U)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -19,13 +20,17 @@ Crytec cryengine far cry 2004 far-cry-1.34-complete
 
 
 ## Reference links
+[https://archive.org/details/avp-2-gold-edition](https://archive.org/details/avp-2-gold-edition)
+
 [https://archive.org/details/far-cry-1.40-gametools-src](https://archive.org/details/far-cry-1.40-gametools-src)
 
 [![Far Cry MacOSX Wineskin](https://i.ytimg.com/vi/ShjANt3tN8o/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjHprmtAjCAv7Kkz8XOX_XRb)
 
 [![Far cry 1 Sandbox Editor creating a map tutorial no4](https://img.youtube.com/vi/ijnlG84gcqs/hqdefault.jpg)](https://ytembed.macosxjs.com/?aWpubEc4NGdjcXM)
 
-[![Far Cry 2004](https://raw.githubusercontent.com/igiteam/far-cry-2004/refs/heads/main/farcry1.jpg)](https://archive.org/details/far-cry_202402)
+[![Far Cry 2004](https://raw.githubusercontent.com/igiteam/far-cry-2004-aliens-vs-predator-2/refs/heads/main/farcry1.jpg)](https://archive.org/details/far-cry_202402)
+
+[![Aliens vs Predator 2](https://raw.githubusercontent.com/igiteam/far-cry-2004-aliens-vs-predator-2/refs/heads/main/Aliens_vs._Predator_2_Box_Cover.jpg)](https://archive.org/details/avp-2-gold-edition)
 
 
 # FarCry
